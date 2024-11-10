@@ -1,0 +1,1 @@
+<a href="{{ url('admin/blog/delete/'. $deleteblog->id) }}" >Xóa</a>

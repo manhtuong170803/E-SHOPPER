@@ -1,0 +1,1 @@
+<a href="{{ url('admin/country/delete/'. $country->id) }}" >Xóa</a>
